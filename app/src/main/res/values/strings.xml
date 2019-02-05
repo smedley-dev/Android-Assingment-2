@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorldbss170430</string>
+    <string name="action_settings">Settings</string>
+    <string name="L">Lettuce</string>
+    <string name="A">Apple</string>
+    <string name="B">Banana</string>
+    <string name="G">Grape</string>
+    <string name="W">Watermelon</string>
+    <string name="title_activity_main2">Second Hello Activity</string>
+</resources>
